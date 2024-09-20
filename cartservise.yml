@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+cartservice:
+  message: "Welcome to Ecommerce Cart Service related local APIs "
+  contactDetails:
+    name: "Mostafa - Developer"
+    email: "cartlocal@ecommerce.com"
+  onCallSupport:
+    - (+20) 01555331990
