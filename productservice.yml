@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 productservice:
-  message: "Welcome to Ecommerce Product Service related webhook APIs"
+  message: "Welcome to Ecommerce Product Service related webhoook APIs"
   contactDetails:
     name: "Mostafa - Developer"
     email: "productlocal@ecommerce.com"
